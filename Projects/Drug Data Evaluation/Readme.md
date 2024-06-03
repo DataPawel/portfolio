@@ -1,4 +1,4 @@
-### Link to the app: https://drug-performance-evaluation-v1.streamlit.app/
+### Link to the app: https://drug-performance-evaluation.streamlit.app/
 
 ### Dataset description
 The drug_clean.csv file contains performance metrics for 37 common conditions, including drug name, type, form, average price, reviews, effectiveness, ease of use, and satisfaction
